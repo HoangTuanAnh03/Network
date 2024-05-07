@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="network_error">Disconected</string>
+    <string name="network_error_msg">Looks like you\'re offline. Please try to connect again</string>
+</resources>
